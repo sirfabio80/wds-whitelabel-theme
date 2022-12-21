@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>x_snc_wds_wl_theme_utils.css</name>
+        <source>local</source>
+        <sp_css display_value="x_snc_wds_wl_theme_utils.css">ff82add7c33391103115fe94e401310d</sp_css>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>fabio.petito</sys_created_by>
+        <sys_created_on>2022-12-21 11:21:14</sys_created_on>
+        <sys_id>ceb2eddfc33391103115fe94e40131db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wds_wl_theme_utils.css</sys_name>
+        <sys_package display_value="WDS Whitelabel Theme" source="x_snc_wds_wl_theme">d3e388cb477359142a8e8762e36d4344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WDS Whitelabel Theme">d3e388cb477359142a8e8762e36d4344</sys_scope>
+        <sys_update_name>sp_css_include_ceb2eddfc33391103115fe94e40131db</sys_update_name>
+        <sys_updated_by>fabio.petito</sys_updated_by>
+        <sys_updated_on>2022-12-21 11:21:14</sys_updated_on>
+        <url/>
+    </sp_css_include>
+</record_update>
