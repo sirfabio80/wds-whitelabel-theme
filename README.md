@@ -70,4 +70,4 @@ $input-border-focus: $link-color;
 
 ```
 
-4. Add with higher order (so to be loaded for last) the stylesheet includend in the scope app with name **x_snc_wds_wl_theme_utils.css** to your choosen theme.
+4. Add with highest order (so to be loaded for last) the stylesheet includend in the scope app with name **x_snc_wds_wl_theme_utils.css** to your choosen theme.
